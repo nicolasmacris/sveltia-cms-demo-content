@@ -1,5 +1,5 @@
 ---
-title: Blog test One
+title: Another Dynamic Blog
 ---
 
 This is a Blog Test 
